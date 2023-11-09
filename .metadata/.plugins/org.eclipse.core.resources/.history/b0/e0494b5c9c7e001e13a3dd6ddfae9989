@@ -1,0 +1,5 @@
+package com.example.proyItem.models.service;
+
+public class ItemServiceFeign {
+
+}

@@ -1,0 +1,5 @@
+package com.example.proyItem.clientes;
+
+public interface ProductoClienteRest {
+
+}
